@@ -1,0 +1,30 @@
+.NavBar {
+  font-family: Calibri, Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0;
+  margin-right: 0;
+
+  padding-bottom: 0.5rem;
+  border-bottom: solid 1px;
+  //   border: solid red;
+}
+
+.Home,
+.Articles,
+.About {
+  margin: 1rem;
+  padding: 1rem;
+  color: black;
+  text-decoration: none;
+}
+
+.search-bar {
+  //   border: solid green;
+  display: inline-flex;
+  float: right;
+  position: relative;
+}

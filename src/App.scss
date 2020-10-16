@@ -1,0 +1,19 @@
+.App-header {
+  //   display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  position: top;
+  text-align: center;
+  padding: 1rem;
+}
+
+.newsImage {
+  height: 10rem;
+  width: auto;
+  border-radius: 10rem;
+}
+
+.interact-row {
+  display: flex;
+}
